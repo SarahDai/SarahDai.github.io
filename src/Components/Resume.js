@@ -56,7 +56,7 @@ class Resume extends Component {
           <div className="twelve columns main-col project-content">
             <h1><span>Service Alert Management Application</span></h1>
             <h5>Azure Based Cloud Service</h5>
-            
+            <img className="project-img" alt="alert management screenshot" src="images/tech/alert_management.jpg" />
             <div className="twelve columns project-bullet">
             <li>Built up scalable service alert management app to facilitate alert control, correlation, noise reduction visually.</li>
             <li>Leveraged <span>Azure Service Fabric</span> to simplify microservices development and application lifecycle management.</li>
